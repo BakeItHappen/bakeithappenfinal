@@ -101,7 +101,7 @@ else{
  <?php 
 
 /*Provide new Location with header function*/ 
-header("Location:home.html") 
+header("Location:home.php") 
 
 ?>
     
